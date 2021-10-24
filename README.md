@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Before you clone the project, make sure you create a project on firebase, and add a collection named users.
 
 ## Available Scripts
 
