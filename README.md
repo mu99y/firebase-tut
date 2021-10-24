@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 Before you clone the project, make sure you create a project on firebase, and add a collection named users.
+https://firebase.google.com/
 
 ## Available Scripts
 
